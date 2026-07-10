@@ -1,10 +1,10 @@
 /* --- VARIABLES Y CONFIGURACIÓN GLOBAL --- */
 :root {
-    --color-background: #131d35;
+    --color-background: #050427;
     --color-surface-glass: rgba(30, 41, 59, 0.5);
     --color-border-glass: rgba(255, 255, 255, 0.08);
-    --color-primario: #0077fe; /* Cian brillante */
-    --color-secundario: #4f7efe; /* Azul moderno */
+    --color-primario: #1150fd; /* Cian brillante */
+    --color-secundario: #5984fa; /* Azul moderno */
     --color-texto: #e2e8f0;
     --color-texto-muted: #a3b0c2;
     --font-default: 'Poppins', sans-serif;
